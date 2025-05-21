@@ -42,7 +42,7 @@ export default function Footer() {
   {/* Socials */}
   <div className="col-span-1">
     <h3 className="font-semibold mb-2 text-base">Socials</h3>
-    <div className="flex flex-wrap gap-4 mt-4">
+    <div className="flex flex-wrap gap-4 mt-3">
       <a href="https://facebook.com" className="p-2 bg-black rounded-full"><FaFacebookF /></a>
       <a href="https://instagram.com" className="p-2 bg-black rounded-full"><FaInstagram /></a>
       <a href="https://linkedin.com" className="p-2 bg-black rounded-full"><FaLinkedinIn /></a>

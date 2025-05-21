@@ -23,7 +23,7 @@ export default function Footer() {
     <h3 className="font-semibold mb-2 text-base">EMAIL</h3>
     <a href="mailto:temp@gmail.com" className="underline break-all block">admin.sales@okagency.in</a>
     <h3 className="font-semibold mt-4 mb-2 text-base">PHONE</h3>
-    <a href="tel:04425384314" className="underline block">044 2538 4314</a>
+    <a href="tel:04425384314" className="underline block">+91 99621 76439</a>
     <a href="tel:+919840884420" className="underline block">+91 98408 84420</a>
   </div>
 
